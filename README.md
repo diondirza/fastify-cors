@@ -8,7 +8,7 @@ Supports Fastify versions `^1.x`
 
 ## Install
 ```
-npm i fastify-cors
+npm i fastify-cors@1
 ```
 
 ## Usage
